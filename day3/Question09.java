@@ -1,7 +1,7 @@
 //Write a program to Check whether a number is prime.
 package day3;
 import java.util.Scanner;
-public class Question9 {
+public class Question09 {
       public static void main(String[] args)
       {
             Scanner sc = new Scanner(System.in);
