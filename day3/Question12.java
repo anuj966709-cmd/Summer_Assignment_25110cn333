@@ -1,3 +1,5 @@
+//Write a program to Find LCM of two numbers.
+package day3;
 import java.util.Scanner;
 public class Question12 {
       public static int min(int x, int y)
